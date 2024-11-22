@@ -1,0 +1,7 @@
+{
+    "Necessary": ["essential", "mandatory", "necessary", "required"],
+    "Functional": ["function*", "preferenc*", "secure", "security", "authenticat*", "video"],
+    "Analytics": ["anonym*", "analytic*", "measurement", "performance", "research", "statistic*"],
+    "Advertising": ["ad", "advertis*", "ads", "ad selection", "fingerprint*", "geolocation", "market*", "personalis*", "personal info", "sale of data", "target*", "track*", "social", "media"],
+    "Unclassified": ["uncategorize*", "unclassified", "unknown"]
+}
